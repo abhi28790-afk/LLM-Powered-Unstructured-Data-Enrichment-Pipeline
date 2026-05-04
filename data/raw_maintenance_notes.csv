@@ -1,0 +1,501 @@
+record_id,asset_id,asset_type,technician_id,date,maintenance_note,true_severity
+REC_0001,ASSET_5506,Brake System,Tech_005,2023-09-08,Minor corrosion on wheelset surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0002,ASSET_7912,Bogie Frame,Tech_003,2023-02-02,"Noticed unusual wear pattern on door mechanism. Flange thickness measured at 8.7mm, approaching lower limit.",Medium
+REC_0003,ASSET_1434,Brake System,Tech_023,2024-07-28,Tread hollowing measured: 48.3mm. Reprofiling scheduled.,Low
+REC_0004,ASSET_8359,Pantograph,Tech_026,2024-08-26,Minor corrosion on door mechanism surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0005,ASSET_6574,Axle Box,Tech_007,2023-10-12,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0006,ASSET_2584,Traction Motor,Tech_020,2024-01-03,Rhythmic clunking at low speed. Wheel flat detected: 9.3mm depth.,High
+REC_0007,ASSET_9785,HVAC Unit,Tech_003,2023-05-08,Intermittent squealing noise from bogie frame. Lubrication applied; monitoring required.,Low
+REC_0008,ASSET_6925,Brake System,Tech_023,2024-08-14,Bearing temperature elevated: 78.9°C during run. Checked lubrication – regreased.,Medium
+REC_0009,ASSET_5741,Brake System,Tech_028,2023-03-23,Visual check passed. Surface condition satisfactory.,Low
+REC_0010,ASSET_6977,Traction Motor,Tech_012,2023-06-16,"Noticed unusual wear pattern on hvac unit. Flange thickness measured at 26.8mm, approaching lower limit.",Medium
+REC_0011,ASSET_2169,Axle Box,Tech_018,2024-09-15,Tread hollowing measured: 66.8mm. Reprofiling scheduled.,Low
+REC_0012,ASSET_5422,Door Mechanism,Tech_008,2024-10-17,Driver reported excessive vibration above 80km/h. Investigated axle box – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0013,ASSET_1916,Bogie Frame,Tech_026,2023-08-23,Spring deflection marginally above mean: 80.1mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0014,ASSET_4456,Traction Motor,Tech_007,2024-08-03,Rhythmic clunking at low speed. Wheel flat detected: 25.8mm depth.,High
+REC_0015,ASSET_8517,Pantograph,Tech_005,2023-05-27,Minor corrosion on coupler assembly surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0016,ASSET_8019,HVAC Unit,Tech_012,2024-08-20,Driver reported excessive vibration above 80km/h. Investigated door mechanism – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0017,ASSET_2489,Wheelset,Tech_005,2023-02-18,Driver reported excessive vibration above 80km/h. Investigated axle box – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0018,ASSET_7916,Wheelset,Tech_013,2024-09-02,Minor corrosion on axle box surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0019,ASSET_9669,Door Mechanism,Tech_028,2023-09-15,Surface crack observed on suspension spring tread. Asset removed from service pending workshop assessment.,High
+REC_0020,ASSET_9797,Traction Motor,Tech_004,2023-10-01,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0021,ASSET_1053,Door Mechanism,Tech_025,2023-09-27,High-frequency noise traced to hvac unit. Fastener torque checked and found loose at 15.4Nm.,Low
+REC_0022,ASSET_5889,Door Mechanism,Tech_020,2024-10-16,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0023,ASSET_3646,Door Mechanism,Tech_030,2024-07-06,Tread hollowing measured: 35.8mm. Reprofiling scheduled.,Low
+REC_0024,ASSET_1319,Traction Motor,Tech_029,2023-04-25,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0025,ASSET_2290,Coupler Assembly,Tech_027,2023-03-29,High-frequency noise traced to brake system. Fastener torque checked and found loose at 6.0Nm.,Low
+REC_0026,ASSET_3103,Coupler Assembly,Tech_018,2024-11-06,Visual check passed. Surface condition satisfactory.,Low
+REC_0027,ASSET_7932,Door Mechanism,Tech_025,2023-08-05,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0028,ASSET_7537,Traction Motor,Tech_015,2024-11-18,All measurements nominal. Component life estimated 67.9% remaining.,Low
+REC_0029,ASSET_4681,Traction Motor,Tech_001,2023-03-07,Brake disc scoring observed on coupler assembly. Score depth 11.9mm. Monitoring.,Low
+REC_0030,ASSET_4608,Wheelset,Tech_023,2023-01-08,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0031,ASSET_1514,Wheelset,Tech_017,2023-12-05,Minor corrosion on bogie frame surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0032,ASSET_4510,Axle Box,Tech_024,2024-07-06,Driver reported excessive vibration above 80km/h. Investigated pantograph – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0033,ASSET_8749,Brake System,Tech_004,2024-02-21,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0034,ASSET_7735,Bogie Frame,Tech_022,2024-04-23,"Noticed unusual wear pattern on hvac unit. Flange thickness measured at 34.0mm, approaching lower limit.",Medium
+REC_0035,ASSET_6559,Brake System,Tech_007,2023-04-22,Minor corrosion on wheelset surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0036,ASSET_7912,Pantograph,Tech_015,2023-07-07,Tread hollowing measured: 42.9mm. Reprofiling scheduled.,Low
+REC_0037,ASSET_2604,Door Mechanism,Tech_027,2023-02-21,Driver reported excessive vibration above 80km/h. Investigated wheelset – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0038,ASSET_4872,HVAC Unit,Tech_016,2023-06-20,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0039,ASSET_1960,HVAC Unit,Tech_001,2023-06-18,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0040,ASSET_8454,HVAC Unit,Tech_023,2023-10-20,Surface crack observed on pantograph tread. Asset removed from service pending workshop assessment.,High
+REC_0041,ASSET_5861,Bogie Frame,Tech_019,2023-08-11,Bearing temperature elevated: 15.1°C during run. Checked lubrication – regreased.,Medium
+REC_0042,ASSET_1936,Suspension Spring,Tech_016,2023-02-21,Bearing temperature elevated: 71.2°C during run. Checked lubrication – regreased.,Medium
+REC_0043,ASSET_9320,Axle Box,Tech_003,2023-03-24,Brake disc scoring observed on door mechanism. Score depth 15.4mm. Monitoring.,Low
+REC_0044,ASSET_4853,Wheelset,Tech_029,2024-02-18,TADS alarm triggered for wheelset. Temperature spike 64.3°C above ambient. Bearing replaced.,High
+REC_0045,ASSET_1651,Wheelset,Tech_014,2024-09-26,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0046,ASSET_6183,Brake System,Tech_022,2023-09-25,Spring deflection marginally above mean: 53.9mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0047,ASSET_7484,Pantograph,Tech_015,2023-05-15,All measurements nominal. Component life estimated 23.1% remaining.,Low
+REC_0048,ASSET_2638,Door Mechanism,Tech_007,2023-03-17,Rhythmic clunking at low speed. Wheel flat detected: 1.4mm depth.,High
+REC_0049,ASSET_6718,Brake System,Tech_012,2023-03-12,Brake disc scoring observed on pantograph. Score depth 13.0mm. Monitoring.,Low
+REC_0050,ASSET_9900,Suspension Spring,Tech_026,2023-11-06,High-frequency noise traced to axle box. Fastener torque checked and found loose at 41.9Nm.,Low
+REC_0051,ASSET_5905,Wheelset,Tech_029,2024-11-10,Minor corrosion on door mechanism surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0052,ASSET_2753,Axle Box,Tech_009,2024-07-20,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0053,ASSET_6617,Pantograph,Tech_017,2023-07-28,High-frequency noise traced to suspension spring. Fastener torque checked and found loose at 20.4Nm.,Low
+REC_0054,ASSET_1832,HVAC Unit,Tech_027,2023-04-05,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0055,ASSET_3143,Pantograph,Tech_006,2024-10-14,Intermittent squealing noise from bogie frame. Lubrication applied; monitoring required.,Low
+REC_0056,ASSET_1158,Wheelset,Tech_029,2023-04-25,Brake pad thickness below threshold: 67.2mm. Replaced brake block set.,High
+REC_0057,ASSET_7049,Door Mechanism,Tech_005,2024-08-19,All measurements nominal. Component life estimated 52.1% remaining.,Low
+REC_0058,ASSET_6974,Traction Motor,Tech_007,2023-02-10,"Impact damage noted on axle box. Possible ballast strike. Minor gouging, 4.5mm depth.",Low
+REC_0059,ASSET_6794,HVAC Unit,Tech_020,2024-07-27,Spring deflection marginally above mean: 63.5mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0060,ASSET_3900,Bogie Frame,Tech_006,2024-02-27,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0061,ASSET_5065,Axle Box,Tech_026,2023-10-01,Rhythmic clunking at low speed. Wheel flat detected: 76.3mm depth.,High
+REC_0062,ASSET_1634,Brake System,Tech_007,2024-04-26,All measurements nominal. Component life estimated 36.7% remaining.,Low
+REC_0063,ASSET_4728,Bogie Frame,Tech_022,2023-08-17,Brake pad thickness below threshold: 29.3mm. Replaced brake block set.,High
+REC_0064,ASSET_2137,Traction Motor,Tech_021,2023-10-13,Tread hollowing measured: 31.5mm. Reprofiling scheduled.,Low
+REC_0065,ASSET_9785,Bogie Frame,Tech_004,2023-12-06,Brake disc scoring observed on hvac unit. Score depth 64.7mm. Monitoring.,Low
+REC_0066,ASSET_5349,Wheelset,Tech_020,2023-02-09,Intermittent squealing noise from axle box. Lubrication applied; monitoring required.,Low
+REC_0067,ASSET_6139,Suspension Spring,Tech_017,2024-03-22,"Impact damage noted on traction motor. Possible ballast strike. Minor gouging, 69.3mm depth.",Low
+REC_0068,ASSET_4114,Bogie Frame,Tech_023,2023-09-18,"Noticed unusual wear pattern on hvac unit. Flange thickness measured at 85.5mm, approaching lower limit.",Medium
+REC_0069,ASSET_9821,Brake System,Tech_012,2024-11-17,"Impact damage noted on bogie frame. Possible ballast strike. Minor gouging, 49.6mm depth.",Low
+REC_0070,ASSET_6409,Traction Motor,Tech_022,2024-09-30,"Impact damage noted on wheelset. Possible ballast strike. Minor gouging, 90.2mm depth.",Low
+REC_0071,ASSET_7691,HVAC Unit,Tech_023,2023-12-01,"Noticed unusual wear pattern on pantograph. Flange thickness measured at 48.4mm, approaching lower limit.",Medium
+REC_0072,ASSET_7888,HVAC Unit,Tech_022,2024-11-11,High-frequency noise traced to door mechanism. Fastener torque checked and found loose at 12.5Nm.,Low
+REC_0073,ASSET_7653,Bogie Frame,Tech_010,2024-07-15,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0074,ASSET_6279,Coupler Assembly,Tech_015,2024-04-21,High-frequency noise traced to brake system. Fastener torque checked and found loose at 41.1Nm.,Low
+REC_0075,ASSET_3780,Wheelset,Tech_010,2024-11-05,Spring deflection marginally above mean: 48.8mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0076,ASSET_4848,Pantograph,Tech_008,2024-11-19,Brake disc scoring observed on suspension spring. Score depth 32.2mm. Monitoring.,Low
+REC_0077,ASSET_5011,Suspension Spring,Tech_028,2024-05-01,Tread hollowing measured: 2.8mm. Reprofiling scheduled.,Low
+REC_0078,ASSET_4185,Coupler Assembly,Tech_013,2024-01-29,Visual check passed. Surface condition satisfactory.,Low
+REC_0079,ASSET_1090,HVAC Unit,Tech_008,2023-04-20,Driver reported excessive vibration above 80km/h. Investigated axle box – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0080,ASSET_5082,Coupler Assembly,Tech_005,2023-05-05,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0081,ASSET_6198,Suspension Spring,Tech_027,2024-03-29,Brake pad thickness below threshold: 93.9mm. Replaced brake block set.,High
+REC_0082,ASSET_9976,Axle Box,Tech_024,2024-04-01,Brake disc scoring observed on hvac unit. Score depth 79.0mm. Monitoring.,Low
+REC_0083,ASSET_5050,Pantograph,Tech_025,2024-10-14,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0084,ASSET_5499,Wheelset,Tech_023,2024-03-26,Brake disc scoring observed on coupler assembly. Score depth 59.7mm. Monitoring.,Low
+REC_0085,ASSET_6238,Wheelset,Tech_005,2024-07-07,High-frequency noise traced to brake system. Fastener torque checked and found loose at 26.2Nm.,Low
+REC_0086,ASSET_3503,Wheelset,Tech_014,2023-08-08,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0087,ASSET_7812,Brake System,Tech_027,2023-03-05,"Impact damage noted on traction motor. Possible ballast strike. Minor gouging, 51.8mm depth.",Low
+REC_0088,ASSET_1320,HVAC Unit,Tech_016,2024-08-12,"Impact damage noted on hvac unit. Possible ballast strike. Minor gouging, 86.0mm depth.",Low
+REC_0089,ASSET_7389,Door Mechanism,Tech_024,2024-03-05,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0090,ASSET_8999,Pantograph,Tech_014,2023-08-13,Bearing temperature elevated: 85.3°C during run. Checked lubrication – regreased.,Medium
+REC_0091,ASSET_7624,Coupler Assembly,Tech_030,2023-06-19,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0092,ASSET_7455,Suspension Spring,Tech_022,2024-08-29,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0093,ASSET_3223,Axle Box,Tech_002,2024-04-17,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0094,ASSET_8449,Traction Motor,Tech_025,2023-12-01,Intermittent squealing noise from hvac unit. Lubrication applied; monitoring required.,Low
+REC_0095,ASSET_7906,Wheelset,Tech_016,2023-09-16,Surface crack observed on pantograph tread. Asset removed from service pending workshop assessment.,High
+REC_0096,ASSET_6733,Wheelset,Tech_025,2023-08-18,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0097,ASSET_5051,Bogie Frame,Tech_020,2023-07-24,Minor corrosion on bogie frame surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0098,ASSET_2874,Brake System,Tech_015,2024-07-31,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0099,ASSET_3749,Suspension Spring,Tech_024,2024-09-12,All measurements nominal. Component life estimated 73.0% remaining.,Low
+REC_0100,ASSET_3683,Wheelset,Tech_019,2023-11-15,All measurements nominal. Component life estimated 74.0% remaining.,Low
+REC_0101,ASSET_7149,Brake System,Tech_003,2024-02-11,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0102,ASSET_5941,Suspension Spring,Tech_026,2024-12-01,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0103,ASSET_6688,HVAC Unit,Tech_022,2024-06-29,"Noticed unusual wear pattern on suspension spring. Flange thickness measured at 74.5mm, approaching lower limit.",Medium
+REC_0104,ASSET_6590,HVAC Unit,Tech_027,2023-01-13,Crack indication found on wheelset during magnetic particle inspection. Length approx 48.3mm. Sent for NDT.,High
+REC_0105,ASSET_6934,Coupler Assembly,Tech_023,2024-10-12,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0106,ASSET_9548,Pantograph,Tech_020,2024-10-28,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0107,ASSET_5397,Brake System,Tech_027,2023-11-27,Bearing temperature elevated: 44.4°C during run. Checked lubrication – regreased.,Medium
+REC_0108,ASSET_4995,Suspension Spring,Tech_020,2024-04-20,Visual check passed. Surface condition satisfactory.,Low
+REC_0109,ASSET_9098,Axle Box,Tech_016,2023-11-29,Spring deflection marginally above mean: 32.3mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0110,ASSET_6576,Suspension Spring,Tech_023,2023-10-14,Tread hollowing measured: 75.9mm. Reprofiling scheduled.,Low
+REC_0111,ASSET_4130,Brake System,Tech_024,2023-03-29,Intermittent squealing noise from door mechanism. Lubrication applied; monitoring required.,Low
+REC_0112,ASSET_4937,Coupler Assembly,Tech_015,2024-05-02,"Impact damage noted on coupler assembly. Possible ballast strike. Minor gouging, 53.0mm depth.",Low
+REC_0113,ASSET_7625,Pantograph,Tech_022,2023-09-07,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0114,ASSET_9698,HVAC Unit,Tech_024,2023-12-19,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0115,ASSET_8434,Pantograph,Tech_009,2023-10-05,Bearing temperature elevated: 33.7°C during run. Checked lubrication – regreased.,Medium
+REC_0116,ASSET_6169,Door Mechanism,Tech_025,2023-05-03,Driver reported excessive vibration above 80km/h. Investigated wheelset – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0117,ASSET_8933,Suspension Spring,Tech_025,2023-10-11,All measurements nominal. Component life estimated 18.6% remaining.,Low
+REC_0118,ASSET_2647,Pantograph,Tech_008,2023-07-18,Brake disc scoring observed on suspension spring. Score depth 27.2mm. Monitoring.,Low
+REC_0119,ASSET_9751,Pantograph,Tech_002,2023-05-10,Crack indication found on axle box during magnetic particle inspection. Length approx 29.1mm. Sent for NDT.,High
+REC_0120,ASSET_3068,Coupler Assembly,Tech_004,2024-10-15,Scheduled lubrication performed on door mechanism. Grease level restored.,Low
+REC_0121,ASSET_8843,Traction Motor,Tech_006,2024-03-27,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0122,ASSET_8827,Wheelset,Tech_013,2023-04-27,Scheduled lubrication performed on pantograph. Grease level restored.,Low
+REC_0123,ASSET_1878,Axle Box,Tech_026,2023-06-05,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0124,ASSET_5066,Door Mechanism,Tech_025,2023-05-02,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0125,ASSET_4697,HVAC Unit,Tech_015,2024-06-19,"Impact damage noted on suspension spring. Possible ballast strike. Minor gouging, 56.8mm depth.",Low
+REC_0126,ASSET_8025,Suspension Spring,Tech_020,2023-11-09,Brake pad thickness below threshold: 81.8mm. Replaced brake block set.,High
+REC_0127,ASSET_2625,Brake System,Tech_009,2023-08-01,Scheduled lubrication performed on suspension spring. Grease level restored.,Low
+REC_0128,ASSET_3847,Wheelset,Tech_006,2024-07-19,Spring deflection marginally above mean: 15.3mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0129,ASSET_8699,Bogie Frame,Tech_008,2023-10-26,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0130,ASSET_8438,Brake System,Tech_030,2023-03-14,High-frequency noise traced to pantograph. Fastener torque checked and found loose at 66.9Nm.,Low
+REC_0131,ASSET_4241,Wheelset,Tech_018,2024-03-11,Intermittent squealing noise from suspension spring. Lubrication applied; monitoring required.,Low
+REC_0132,ASSET_3330,Bogie Frame,Tech_006,2023-03-15,Driver reported excessive vibration above 80km/h. Investigated axle box – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0133,ASSET_5728,Wheelset,Tech_015,2024-03-25,High-frequency noise traced to suspension spring. Fastener torque checked and found loose at 71.3Nm.,Low
+REC_0134,ASSET_5460,Door Mechanism,Tech_016,2024-05-27,All measurements nominal. Component life estimated 66.6% remaining.,Low
+REC_0135,ASSET_8078,Suspension Spring,Tech_009,2023-11-27,Brake pad thickness below threshold: 57.0mm. Replaced brake block set.,High
+REC_0136,ASSET_1339,Pantograph,Tech_019,2024-11-19,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0137,ASSET_8245,Axle Box,Tech_019,2023-10-12,Scheduled lubrication performed on axle box. Grease level restored.,Low
+REC_0138,ASSET_8700,HVAC Unit,Tech_011,2023-12-23,"Impact damage noted on coupler assembly. Possible ballast strike. Minor gouging, 92.1mm depth.",Low
+REC_0139,ASSET_6403,Coupler Assembly,Tech_010,2024-02-26,Rhythmic clunking at low speed. Wheel flat detected: 81.6mm depth.,High
+REC_0140,ASSET_1601,Wheelset,Tech_011,2024-04-10,Spring deflection marginally above mean: 77.4mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0141,ASSET_7622,Bogie Frame,Tech_022,2024-06-10,Intermittent squealing noise from traction motor. Lubrication applied; monitoring required.,Low
+REC_0142,ASSET_4073,Traction Motor,Tech_020,2024-06-14,Bearing temperature elevated: 39.6°C during run. Checked lubrication – regreased.,Medium
+REC_0143,ASSET_4335,Door Mechanism,Tech_005,2023-10-01,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0144,ASSET_8941,Bogie Frame,Tech_021,2023-05-05,High-frequency noise traced to coupler assembly. Fastener torque checked and found loose at 83.7Nm.,Low
+REC_0145,ASSET_6091,Bogie Frame,Tech_018,2024-07-18,TADS alarm triggered for brake system. Temperature spike 67.6°C above ambient. Bearing replaced.,High
+REC_0146,ASSET_2858,Wheelset,Tech_021,2024-04-17,"Impact damage noted on wheelset. Possible ballast strike. Minor gouging, 21.7mm depth.",Low
+REC_0147,ASSET_5781,Pantograph,Tech_014,2024-06-05,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0148,ASSET_3369,Brake System,Tech_030,2024-01-28,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0149,ASSET_3236,Pantograph,Tech_025,2023-03-13,TADS alarm triggered for door mechanism. Temperature spike 71.0°C above ambient. Bearing replaced.,High
+REC_0150,ASSET_9318,Bogie Frame,Tech_010,2023-10-01,"Impact damage noted on traction motor. Possible ballast strike. Minor gouging, 88.8mm depth.",Low
+REC_0151,ASSET_9022,Coupler Assembly,Tech_018,2023-06-02,High-frequency noise traced to suspension spring. Fastener torque checked and found loose at 55.3Nm.,Low
+REC_0152,ASSET_9903,Coupler Assembly,Tech_030,2024-01-22,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0153,ASSET_4912,HVAC Unit,Tech_008,2024-08-08,Rhythmic clunking at low speed. Wheel flat detected: 93.2mm depth.,High
+REC_0154,ASSET_8749,HVAC Unit,Tech_022,2024-01-26,"Impact damage noted on bogie frame. Possible ballast strike. Minor gouging, 30.6mm depth.",Low
+REC_0155,ASSET_1606,Door Mechanism,Tech_019,2023-05-10,Minor corrosion on axle box surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0156,ASSET_8213,Door Mechanism,Tech_030,2023-04-13,Rhythmic clunking at low speed. Wheel flat detected: 83.1mm depth.,High
+REC_0157,ASSET_7717,Axle Box,Tech_003,2024-11-01,Brake pad thickness below threshold: 68.8mm. Replaced brake block set.,High
+REC_0158,ASSET_7512,Wheelset,Tech_028,2024-10-27,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0159,ASSET_6188,Coupler Assembly,Tech_028,2024-10-03,Rhythmic clunking at low speed. Wheel flat detected: 36.4mm depth.,High
+REC_0160,ASSET_4846,Pantograph,Tech_008,2024-10-08,Bearing temperature elevated: 58.8°C during run. Checked lubrication – regreased.,Medium
+REC_0161,ASSET_2646,Axle Box,Tech_023,2024-03-30,Visual check passed. Surface condition satisfactory.,Low
+REC_0162,ASSET_1919,Traction Motor,Tech_012,2023-10-28,High-frequency noise traced to bogie frame. Fastener torque checked and found loose at 4.8Nm.,Low
+REC_0163,ASSET_7751,Axle Box,Tech_006,2024-08-02,"Impact damage noted on axle box. Possible ballast strike. Minor gouging, 23.6mm depth.",Low
+REC_0164,ASSET_7267,Brake System,Tech_016,2024-09-26,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0165,ASSET_5161,Pantograph,Tech_022,2024-04-15,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0166,ASSET_9955,Wheelset,Tech_015,2023-06-11,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0167,ASSET_7951,Coupler Assembly,Tech_028,2023-09-14,Crack indication found on suspension spring during magnetic particle inspection. Length approx 28.8mm. Sent for NDT.,High
+REC_0168,ASSET_8916,Brake System,Tech_013,2023-04-20,High-frequency noise traced to brake system. Fastener torque checked and found loose at 94.9Nm.,Low
+REC_0169,ASSET_5837,HVAC Unit,Tech_009,2023-01-23,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0170,ASSET_1803,Coupler Assembly,Tech_027,2024-09-12,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0171,ASSET_6772,Brake System,Tech_020,2023-08-13,High-frequency noise traced to brake system. Fastener torque checked and found loose at 57.9Nm.,Low
+REC_0172,ASSET_1645,Coupler Assembly,Tech_002,2023-11-13,Intermittent squealing noise from axle box. Lubrication applied; monitoring required.,Low
+REC_0173,ASSET_2476,Traction Motor,Tech_024,2023-10-30,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0174,ASSET_9837,Door Mechanism,Tech_017,2024-01-10,"Impact damage noted on axle box. Possible ballast strike. Minor gouging, 19.5mm depth.",Low
+REC_0175,ASSET_8894,Traction Motor,Tech_026,2023-10-30,Intermittent squealing noise from axle box. Lubrication applied; monitoring required.,Low
+REC_0176,ASSET_3306,HVAC Unit,Tech_028,2023-08-20,"Noticed unusual wear pattern on coupler assembly. Flange thickness measured at 91.5mm, approaching lower limit.",Medium
+REC_0177,ASSET_7464,Pantograph,Tech_018,2023-01-15,Bearing temperature elevated: 9.0°C during run. Checked lubrication – regreased.,Medium
+REC_0178,ASSET_5295,HVAC Unit,Tech_027,2024-08-21,"Noticed unusual wear pattern on coupler assembly. Flange thickness measured at 35.3mm, approaching lower limit.",Medium
+REC_0179,ASSET_4830,Bogie Frame,Tech_020,2024-04-27,Minor corrosion on traction motor surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0180,ASSET_4626,Wheelset,Tech_021,2024-10-25,Bearing temperature elevated: 87.0°C during run. Checked lubrication – regreased.,Medium
+REC_0181,ASSET_2911,Bogie Frame,Tech_002,2023-05-24,Brake pad thickness below threshold: 61.9mm. Replaced brake block set.,High
+REC_0182,ASSET_4846,Axle Box,Tech_013,2024-07-04,High-frequency noise traced to coupler assembly. Fastener torque checked and found loose at 11.5Nm.,Low
+REC_0183,ASSET_9850,Suspension Spring,Tech_024,2024-03-05,Brake pad thickness below threshold: 63.9mm. Replaced brake block set.,High
+REC_0184,ASSET_9017,HVAC Unit,Tech_009,2024-09-22,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0185,ASSET_8285,Traction Motor,Tech_004,2023-08-30,Scheduled lubrication performed on traction motor. Grease level restored.,Low
+REC_0186,ASSET_6876,HVAC Unit,Tech_009,2023-03-04,Spring deflection marginally above mean: 52.0mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0187,ASSET_8450,Brake System,Tech_021,2023-04-04,Tread hollowing measured: 90.2mm. Reprofiling scheduled.,Low
+REC_0188,ASSET_1828,Brake System,Tech_005,2023-12-08,Minor corrosion on suspension spring surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0189,ASSET_4394,Brake System,Tech_027,2024-08-23,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0190,ASSET_1046,Axle Box,Tech_005,2023-10-11,Driver reported excessive vibration above 80km/h. Investigated traction motor – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0191,ASSET_2801,Bogie Frame,Tech_005,2024-11-07,Bearing temperature elevated: 76.0°C during run. Checked lubrication – regreased.,Medium
+REC_0192,ASSET_4898,Traction Motor,Tech_001,2024-08-25,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0193,ASSET_7897,Wheelset,Tech_024,2024-06-22,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0194,ASSET_6931,Suspension Spring,Tech_004,2024-06-09,Visual check passed. Surface condition satisfactory.,Low
+REC_0195,ASSET_1710,Door Mechanism,Tech_010,2024-11-05,Brake pad thickness below threshold: 21.4mm. Replaced brake block set.,High
+REC_0196,ASSET_8847,HVAC Unit,Tech_022,2024-02-16,Brake pad thickness below threshold: 6.2mm. Replaced brake block set.,High
+REC_0197,ASSET_8267,Wheelset,Tech_011,2023-03-17,"Noticed unusual wear pattern on coupler assembly. Flange thickness measured at 67.8mm, approaching lower limit.",Medium
+REC_0198,ASSET_5505,Suspension Spring,Tech_018,2024-10-01,TADS alarm triggered for axle box. Temperature spike 6.7°C above ambient. Bearing replaced.,High
+REC_0199,ASSET_9692,Coupler Assembly,Tech_017,2023-10-29,All measurements nominal. Component life estimated 36.5% remaining.,Low
+REC_0200,ASSET_2874,Door Mechanism,Tech_024,2024-11-01,TADS alarm triggered for hvac unit. Temperature spike 9.9°C above ambient. Bearing replaced.,High
+REC_0201,ASSET_4743,Traction Motor,Tech_027,2024-02-28,Tread hollowing measured: 43.2mm. Reprofiling scheduled.,Low
+REC_0202,ASSET_2557,HVAC Unit,Tech_011,2023-11-17,Brake pad thickness below threshold: 39.8mm. Replaced brake block set.,High
+REC_0203,ASSET_3500,Wheelset,Tech_003,2024-04-30,Spring deflection marginally above mean: 35.9mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0204,ASSET_7105,Door Mechanism,Tech_002,2023-05-14,Visual check passed. Surface condition satisfactory.,Low
+REC_0205,ASSET_3002,Traction Motor,Tech_028,2024-02-25,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0206,ASSET_1842,Suspension Spring,Tech_010,2023-10-22,Spring deflection marginally above mean: 82.5mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0207,ASSET_4485,Coupler Assembly,Tech_008,2023-06-08,Crack indication found on wheelset during magnetic particle inspection. Length approx 55.1mm. Sent for NDT.,High
+REC_0208,ASSET_7022,Pantograph,Tech_019,2023-04-28,"Noticed unusual wear pattern on traction motor. Flange thickness measured at 80.4mm, approaching lower limit.",Medium
+REC_0209,ASSET_1430,Pantograph,Tech_001,2024-09-15,Driver reported excessive vibration above 80km/h. Investigated hvac unit – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0210,ASSET_6062,Traction Motor,Tech_001,2023-12-14,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0211,ASSET_7566,Axle Box,Tech_024,2023-03-13,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0212,ASSET_9691,HVAC Unit,Tech_014,2023-08-09,Minor corrosion on bogie frame surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0213,ASSET_6105,Suspension Spring,Tech_020,2023-11-29,Brake pad thickness below threshold: 15.4mm. Replaced brake block set.,High
+REC_0214,ASSET_1815,Wheelset,Tech_009,2024-11-21,Visual check passed. Surface condition satisfactory.,Low
+REC_0215,ASSET_8242,Pantograph,Tech_007,2024-02-29,Brake pad thickness below threshold: 46.4mm. Replaced brake block set.,High
+REC_0216,ASSET_2816,Suspension Spring,Tech_016,2023-10-18,Brake disc scoring observed on wheelset. Score depth 33.1mm. Monitoring.,Low
+REC_0217,ASSET_7475,Bogie Frame,Tech_001,2024-09-05,Brake disc scoring observed on pantograph. Score depth 4.8mm. Monitoring.,Low
+REC_0218,ASSET_3248,Pantograph,Tech_011,2023-09-19,Tread hollowing measured: 89.8mm. Reprofiling scheduled.,Low
+REC_0219,ASSET_8055,Axle Box,Tech_013,2023-06-29,"Noticed unusual wear pattern on bogie frame. Flange thickness measured at 47.5mm, approaching lower limit.",Medium
+REC_0220,ASSET_6802,HVAC Unit,Tech_028,2023-03-15,Bearing temperature elevated: 47.8°C during run. Checked lubrication – regreased.,Medium
+REC_0221,ASSET_2275,Suspension Spring,Tech_014,2023-11-17,Scheduled lubrication performed on hvac unit. Grease level restored.,Low
+REC_0222,ASSET_7843,Wheelset,Tech_013,2023-10-24,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0223,ASSET_8538,Wheelset,Tech_014,2024-01-06,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0224,ASSET_7560,Wheelset,Tech_013,2024-06-20,"Noticed unusual wear pattern on brake system. Flange thickness measured at 41.7mm, approaching lower limit.",Medium
+REC_0225,ASSET_3754,Door Mechanism,Tech_021,2023-03-20,High-frequency noise traced to traction motor. Fastener torque checked and found loose at 21.4Nm.,Low
+REC_0226,ASSET_6724,Axle Box,Tech_008,2023-12-26,"Noticed unusual wear pattern on door mechanism. Flange thickness measured at 48.7mm, approaching lower limit.",Medium
+REC_0227,ASSET_3842,Axle Box,Tech_025,2024-09-08,"Noticed unusual wear pattern on axle box. Flange thickness measured at 24.7mm, approaching lower limit.",Medium
+REC_0228,ASSET_9095,Suspension Spring,Tech_025,2024-04-20,Minor corrosion on wheelset surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0229,ASSET_6295,Traction Motor,Tech_005,2024-10-04,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0230,ASSET_5961,Suspension Spring,Tech_002,2023-10-09,Brake pad thickness below threshold: 44.8mm. Replaced brake block set.,High
+REC_0231,ASSET_8565,Bogie Frame,Tech_002,2024-04-07,Crack indication found on door mechanism during magnetic particle inspection. Length approx 7.5mm. Sent for NDT.,High
+REC_0232,ASSET_2479,Suspension Spring,Tech_017,2024-09-21,Crack indication found on pantograph during magnetic particle inspection. Length approx 7.8mm. Sent for NDT.,High
+REC_0233,ASSET_1672,Suspension Spring,Tech_021,2024-04-05,Surface crack observed on coupler assembly tread. Asset removed from service pending workshop assessment.,High
+REC_0234,ASSET_9214,Bogie Frame,Tech_015,2023-06-04,Tread hollowing measured: 57.7mm. Reprofiling scheduled.,Low
+REC_0235,ASSET_2381,Axle Box,Tech_002,2024-05-31,"Noticed unusual wear pattern on traction motor. Flange thickness measured at 93.3mm, approaching lower limit.",Medium
+REC_0236,ASSET_9586,Suspension Spring,Tech_006,2024-06-19,Driver reported excessive vibration above 80km/h. Investigated coupler assembly – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0237,ASSET_7347,Traction Motor,Tech_022,2024-02-23,Crack indication found on traction motor during magnetic particle inspection. Length approx 87.2mm. Sent for NDT.,High
+REC_0238,ASSET_6482,Traction Motor,Tech_004,2023-03-09,TADS alarm triggered for bogie frame. Temperature spike 75.1°C above ambient. Bearing replaced.,High
+REC_0239,ASSET_3463,Wheelset,Tech_019,2023-12-08,Bearing temperature elevated: 27.4°C during run. Checked lubrication – regreased.,Medium
+REC_0240,ASSET_6082,HVAC Unit,Tech_005,2024-11-02,Spring deflection marginally above mean: 87.1mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0241,ASSET_7171,Traction Motor,Tech_027,2024-10-20,TADS alarm triggered for wheelset. Temperature spike 29.8°C above ambient. Bearing replaced.,High
+REC_0242,ASSET_7937,Traction Motor,Tech_001,2024-06-04,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0243,ASSET_4509,Coupler Assembly,Tech_007,2023-12-16,Crack indication found on pantograph during magnetic particle inspection. Length approx 17.5mm. Sent for NDT.,High
+REC_0244,ASSET_5846,Door Mechanism,Tech_025,2023-04-14,Driver reported excessive vibration above 80km/h. Investigated axle box – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0245,ASSET_6517,Axle Box,Tech_020,2024-09-24,Bearing temperature elevated: 4.1°C during run. Checked lubrication – regreased.,Medium
+REC_0246,ASSET_3712,Bogie Frame,Tech_014,2024-03-24,Surface crack observed on axle box tread. Asset removed from service pending workshop assessment.,High
+REC_0247,ASSET_5668,Brake System,Tech_018,2024-04-04,Crack indication found on brake system during magnetic particle inspection. Length approx 92.1mm. Sent for NDT.,High
+REC_0248,ASSET_8684,Traction Motor,Tech_022,2023-07-18,Driver reported excessive vibration above 80km/h. Investigated pantograph – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0249,ASSET_5616,Door Mechanism,Tech_017,2024-01-27,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0250,ASSET_3267,Bogie Frame,Tech_021,2023-09-14,"Impact damage noted on axle box. Possible ballast strike. Minor gouging, 77.7mm depth.",Low
+REC_0251,ASSET_2680,Wheelset,Tech_010,2024-06-12,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0252,ASSET_9410,HVAC Unit,Tech_003,2023-05-31,Visual check passed. Surface condition satisfactory.,Low
+REC_0253,ASSET_1436,Bogie Frame,Tech_013,2024-02-29,Driver reported excessive vibration above 80km/h. Investigated coupler assembly – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0254,ASSET_2337,Brake System,Tech_001,2024-01-19,Brake disc scoring observed on traction motor. Score depth 22.8mm. Monitoring.,Low
+REC_0255,ASSET_6493,Axle Box,Tech_002,2023-05-30,Rhythmic clunking at low speed. Wheel flat detected: 79.8mm depth.,High
+REC_0256,ASSET_3273,Coupler Assembly,Tech_020,2024-04-25,High-frequency noise traced to coupler assembly. Fastener torque checked and found loose at 66.3Nm.,Low
+REC_0257,ASSET_4533,Door Mechanism,Tech_024,2023-06-03,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0258,ASSET_5720,Pantograph,Tech_004,2023-09-01,TADS alarm triggered for door mechanism. Temperature spike 40.5°C above ambient. Bearing replaced.,High
+REC_0259,ASSET_8489,Wheelset,Tech_027,2023-03-06,Scheduled lubrication performed on brake system. Grease level restored.,Low
+REC_0260,ASSET_9443,Brake System,Tech_023,2024-08-11,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0261,ASSET_6780,Suspension Spring,Tech_014,2023-09-04,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0262,ASSET_6908,Door Mechanism,Tech_018,2023-03-11,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0263,ASSET_7397,Bogie Frame,Tech_021,2024-04-26,Brake disc scoring observed on door mechanism. Score depth 52.9mm. Monitoring.,Low
+REC_0264,ASSET_1266,Wheelset,Tech_012,2024-01-01,Surface crack observed on traction motor tread. Asset removed from service pending workshop assessment.,High
+REC_0265,ASSET_6447,Bogie Frame,Tech_012,2023-05-17,Driver reported excessive vibration above 80km/h. Investigated wheelset – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0266,ASSET_3868,Coupler Assembly,Tech_021,2024-04-20,Bearing temperature elevated: 77.4°C during run. Checked lubrication – regreased.,Medium
+REC_0267,ASSET_8498,Pantograph,Tech_007,2023-02-07,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0268,ASSET_6170,Door Mechanism,Tech_013,2023-11-14,Scheduled lubrication performed on brake system. Grease level restored.,Low
+REC_0269,ASSET_4131,Traction Motor,Tech_028,2023-10-20,Bearing temperature elevated: 24.4°C during run. Checked lubrication – regreased.,Medium
+REC_0270,ASSET_7029,HVAC Unit,Tech_024,2024-03-23,Scheduled lubrication performed on traction motor. Grease level restored.,Low
+REC_0271,ASSET_4060,Coupler Assembly,Tech_012,2024-05-23,Brake pad thickness below threshold: 32.5mm. Replaced brake block set.,High
+REC_0272,ASSET_7955,HVAC Unit,Tech_020,2023-03-22,Brake disc scoring observed on pantograph. Score depth 76.2mm. Monitoring.,Low
+REC_0273,ASSET_2680,Traction Motor,Tech_022,2023-03-23,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0274,ASSET_7981,Coupler Assembly,Tech_012,2023-06-20,High-frequency noise traced to pantograph. Fastener torque checked and found loose at 42.6Nm.,Low
+REC_0275,ASSET_6776,HVAC Unit,Tech_009,2024-09-21,Brake pad thickness below threshold: 69.2mm. Replaced brake block set.,High
+REC_0276,ASSET_7655,Door Mechanism,Tech_026,2024-01-08,Minor corrosion on bogie frame surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0277,ASSET_3339,Coupler Assembly,Tech_002,2024-09-14,Spring deflection marginally above mean: 90.5mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0278,ASSET_7001,HVAC Unit,Tech_019,2024-01-06,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0279,ASSET_8371,Traction Motor,Tech_015,2024-01-15,Scheduled lubrication performed on suspension spring. Grease level restored.,Low
+REC_0280,ASSET_7012,Traction Motor,Tech_021,2024-02-12,Visual check passed. Surface condition satisfactory.,Low
+REC_0281,ASSET_1424,Coupler Assembly,Tech_017,2023-07-10,Intermittent squealing noise from brake system. Lubrication applied; monitoring required.,Low
+REC_0282,ASSET_5264,Brake System,Tech_020,2024-04-01,Surface crack observed on door mechanism tread. Asset removed from service pending workshop assessment.,High
+REC_0283,ASSET_3223,Coupler Assembly,Tech_006,2023-03-17,High-frequency noise traced to coupler assembly. Fastener torque checked and found loose at 19.4Nm.,Low
+REC_0284,ASSET_6236,Traction Motor,Tech_023,2024-11-14,All measurements nominal. Component life estimated 94.7% remaining.,Low
+REC_0285,ASSET_5914,Axle Box,Tech_026,2023-06-11,Visual check passed. Surface condition satisfactory.,Low
+REC_0286,ASSET_4292,Brake System,Tech_026,2023-05-23,Crack indication found on door mechanism during magnetic particle inspection. Length approx 21.7mm. Sent for NDT.,High
+REC_0287,ASSET_7044,Door Mechanism,Tech_005,2024-04-23,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0288,ASSET_7523,Door Mechanism,Tech_014,2024-05-05,TADS alarm triggered for wheelset. Temperature spike 6.7°C above ambient. Bearing replaced.,High
+REC_0289,ASSET_6194,Wheelset,Tech_015,2024-10-19,"Impact damage noted on suspension spring. Possible ballast strike. Minor gouging, 7.5mm depth.",Low
+REC_0290,ASSET_3981,HVAC Unit,Tech_017,2023-05-13,Brake pad thickness below threshold: 33.1mm. Replaced brake block set.,High
+REC_0291,ASSET_5982,Axle Box,Tech_011,2023-06-18,Scheduled lubrication performed on wheelset. Grease level restored.,Low
+REC_0292,ASSET_9501,Wheelset,Tech_009,2023-10-18,All measurements nominal. Component life estimated 33.2% remaining.,Low
+REC_0293,ASSET_5961,Door Mechanism,Tech_003,2024-09-21,Tread hollowing measured: 26.4mm. Reprofiling scheduled.,Low
+REC_0294,ASSET_3526,Suspension Spring,Tech_024,2023-06-25,Brake disc scoring observed on axle box. Score depth 56.4mm. Monitoring.,Low
+REC_0295,ASSET_1674,Wheelset,Tech_002,2023-01-30,TADS alarm triggered for traction motor. Temperature spike 80.1°C above ambient. Bearing replaced.,High
+REC_0296,ASSET_4453,HVAC Unit,Tech_020,2024-08-08,Minor corrosion on suspension spring surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0297,ASSET_9938,Pantograph,Tech_016,2023-10-24,Minor corrosion on bogie frame surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0298,ASSET_2195,Axle Box,Tech_015,2023-03-03,Driver reported excessive vibration above 80km/h. Investigated hvac unit – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0299,ASSET_6573,Axle Box,Tech_011,2024-09-13,"Impact damage noted on coupler assembly. Possible ballast strike. Minor gouging, 44.4mm depth.",Low
+REC_0300,ASSET_6658,Axle Box,Tech_025,2024-02-13,All measurements nominal. Component life estimated 69.9% remaining.,Low
+REC_0301,ASSET_6228,Coupler Assembly,Tech_004,2023-09-05,Crack indication found on door mechanism during magnetic particle inspection. Length approx 53.6mm. Sent for NDT.,High
+REC_0302,ASSET_2586,Pantograph,Tech_013,2023-02-21,Intermittent squealing noise from coupler assembly. Lubrication applied; monitoring required.,Low
+REC_0303,ASSET_3616,Suspension Spring,Tech_024,2023-12-02,TADS alarm triggered for hvac unit. Temperature spike 24.0°C above ambient. Bearing replaced.,High
+REC_0304,ASSET_9163,Coupler Assembly,Tech_016,2024-06-11,Rhythmic clunking at low speed. Wheel flat detected: 72.6mm depth.,High
+REC_0305,ASSET_7442,Coupler Assembly,Tech_008,2024-06-01,High-frequency noise traced to coupler assembly. Fastener torque checked and found loose at 2.7Nm.,Low
+REC_0306,ASSET_1828,Coupler Assembly,Tech_020,2023-10-16,Tread hollowing measured: 33.8mm. Reprofiling scheduled.,Low
+REC_0307,ASSET_1133,HVAC Unit,Tech_005,2023-04-21,Minor corrosion on coupler assembly surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0308,ASSET_6995,HVAC Unit,Tech_002,2023-02-16,Intermittent squealing noise from traction motor. Lubrication applied; monitoring required.,Low
+REC_0309,ASSET_5728,HVAC Unit,Tech_017,2023-03-17,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0310,ASSET_2946,Wheelset,Tech_013,2023-05-12,Brake pad thickness below threshold: 26.9mm. Replaced brake block set.,High
+REC_0311,ASSET_6990,Brake System,Tech_020,2023-05-28,Crack indication found on traction motor during magnetic particle inspection. Length approx 53.2mm. Sent for NDT.,High
+REC_0312,ASSET_1742,Axle Box,Tech_023,2023-02-09,Brake disc scoring observed on hvac unit. Score depth 47.8mm. Monitoring.,Low
+REC_0313,ASSET_3440,Door Mechanism,Tech_005,2024-09-12,Rhythmic clunking at low speed. Wheel flat detected: 49.6mm depth.,High
+REC_0314,ASSET_7438,Pantograph,Tech_019,2024-09-23,Rhythmic clunking at low speed. Wheel flat detected: 30.6mm depth.,High
+REC_0315,ASSET_9721,Suspension Spring,Tech_010,2024-05-16,Rhythmic clunking at low speed. Wheel flat detected: 78.8mm depth.,High
+REC_0316,ASSET_2795,Suspension Spring,Tech_010,2024-03-02,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0317,ASSET_5350,Suspension Spring,Tech_019,2024-11-02,All measurements nominal. Component life estimated 56.9% remaining.,Low
+REC_0318,ASSET_3793,Suspension Spring,Tech_025,2024-06-20,Driver reported excessive vibration above 80km/h. Investigated bogie frame – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0319,ASSET_4968,Suspension Spring,Tech_023,2023-02-02,Surface crack observed on axle box tread. Asset removed from service pending workshop assessment.,High
+REC_0320,ASSET_6139,Axle Box,Tech_014,2024-03-04,"Noticed unusual wear pattern on brake system. Flange thickness measured at 2.3mm, approaching lower limit.",Medium
+REC_0321,ASSET_8726,Axle Box,Tech_017,2023-03-05,All measurements nominal. Component life estimated 39.3% remaining.,Low
+REC_0322,ASSET_8837,HVAC Unit,Tech_011,2024-06-22,Tread hollowing measured: 31.2mm. Reprofiling scheduled.,Low
+REC_0323,ASSET_6608,Traction Motor,Tech_022,2024-07-13,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0324,ASSET_4150,Pantograph,Tech_018,2023-09-10,Spring deflection marginally above mean: 58.2mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0325,ASSET_5876,Brake System,Tech_023,2023-10-23,High-frequency noise traced to brake system. Fastener torque checked and found loose at 89.5Nm.,Low
+REC_0326,ASSET_6714,Pantograph,Tech_010,2024-07-27,All measurements nominal. Component life estimated 30.5% remaining.,Low
+REC_0327,ASSET_7220,Traction Motor,Tech_025,2024-02-09,"Noticed unusual wear pattern on suspension spring. Flange thickness measured at 64.4mm, approaching lower limit.",Medium
+REC_0328,ASSET_2294,Coupler Assembly,Tech_021,2023-12-21,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0329,ASSET_9824,Door Mechanism,Tech_023,2023-10-05,Intermittent squealing noise from coupler assembly. Lubrication applied; monitoring required.,Low
+REC_0330,ASSET_4920,Bogie Frame,Tech_022,2023-09-06,Intermittent squealing noise from axle box. Lubrication applied; monitoring required.,Low
+REC_0331,ASSET_1860,HVAC Unit,Tech_011,2023-04-13,Brake disc scoring observed on brake system. Score depth 60.8mm. Monitoring.,Low
+REC_0332,ASSET_3252,Door Mechanism,Tech_030,2023-01-06,All measurements nominal. Component life estimated 10.0% remaining.,Low
+REC_0333,ASSET_8793,Brake System,Tech_025,2024-05-03,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0334,ASSET_1969,Suspension Spring,Tech_008,2023-04-02,High-frequency noise traced to traction motor. Fastener torque checked and found loose at 27.5Nm.,Low
+REC_0335,ASSET_3868,Axle Box,Tech_030,2024-03-03,Bearing temperature elevated: 86.8°C during run. Checked lubrication – regreased.,Medium
+REC_0336,ASSET_4052,Bogie Frame,Tech_001,2023-10-24,Scheduled lubrication performed on hvac unit. Grease level restored.,Low
+REC_0337,ASSET_6489,Coupler Assembly,Tech_021,2023-10-19,High-frequency noise traced to suspension spring. Fastener torque checked and found loose at 57.5Nm.,Low
+REC_0338,ASSET_3198,Coupler Assembly,Tech_009,2024-05-31,Bearing temperature elevated: 47.2°C during run. Checked lubrication – regreased.,Medium
+REC_0339,ASSET_8518,Pantograph,Tech_023,2024-10-25,Tread hollowing measured: 31.7mm. Reprofiling scheduled.,Low
+REC_0340,ASSET_5833,Brake System,Tech_006,2024-08-04,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0341,ASSET_9442,Wheelset,Tech_013,2023-12-02,TADS alarm triggered for hvac unit. Temperature spike 78.7°C above ambient. Bearing replaced.,High
+REC_0342,ASSET_3303,Traction Motor,Tech_030,2024-05-03,Spring deflection marginally above mean: 18.0mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0343,ASSET_4858,Pantograph,Tech_011,2024-04-02,Driver reported excessive vibration above 80km/h. Investigated bogie frame – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0344,ASSET_1187,Traction Motor,Tech_023,2023-09-25,High-frequency noise traced to suspension spring. Fastener torque checked and found loose at 68.8Nm.,Low
+REC_0345,ASSET_8625,Axle Box,Tech_013,2023-11-11,Driver reported excessive vibration above 80km/h. Investigated bogie frame – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0346,ASSET_6095,Pantograph,Tech_012,2023-05-01,Spring deflection marginally above mean: 87.7mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0347,ASSET_3188,Axle Box,Tech_015,2024-05-04,TADS alarm triggered for brake system. Temperature spike 21.2°C above ambient. Bearing replaced.,High
+REC_0348,ASSET_9998,Door Mechanism,Tech_026,2024-04-27,TADS alarm triggered for traction motor. Temperature spike 39.8°C above ambient. Bearing replaced.,High
+REC_0349,ASSET_2341,Coupler Assembly,Tech_017,2024-06-22,Spring deflection marginally above mean: 72.5mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0350,ASSET_2838,Door Mechanism,Tech_029,2023-03-05,All measurements nominal. Component life estimated 7.9% remaining.,Low
+REC_0351,ASSET_3455,Traction Motor,Tech_028,2023-06-18,Brake disc scoring observed on brake system. Score depth 54.6mm. Monitoring.,Low
+REC_0352,ASSET_4365,Coupler Assembly,Tech_003,2024-08-20,Brake disc scoring observed on coupler assembly. Score depth 11.5mm. Monitoring.,Low
+REC_0353,ASSET_8429,Door Mechanism,Tech_014,2023-05-16,Brake disc scoring observed on coupler assembly. Score depth 76.9mm. Monitoring.,Low
+REC_0354,ASSET_8575,Pantograph,Tech_024,2024-11-19,Brake pad thickness below threshold: 6.0mm. Replaced brake block set.,High
+REC_0355,ASSET_1049,Suspension Spring,Tech_003,2023-08-12,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0356,ASSET_2044,Bogie Frame,Tech_030,2024-07-08,Scheduled lubrication performed on hvac unit. Grease level restored.,Low
+REC_0357,ASSET_7698,Axle Box,Tech_025,2023-07-04,Visual check passed. Surface condition satisfactory.,Low
+REC_0358,ASSET_7266,HVAC Unit,Tech_013,2024-04-04,Minor corrosion on hvac unit surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0359,ASSET_6697,Axle Box,Tech_018,2023-05-02,Visual check passed. Surface condition satisfactory.,Low
+REC_0360,ASSET_4648,Bogie Frame,Tech_010,2023-01-04,Surface crack observed on door mechanism tread. Asset removed from service pending workshop assessment.,High
+REC_0361,ASSET_7214,Brake System,Tech_015,2023-08-24,Brake pad thickness below threshold: 40.6mm. Replaced brake block set.,High
+REC_0362,ASSET_2848,HVAC Unit,Tech_020,2023-02-02,Crack indication found on axle box during magnetic particle inspection. Length approx 26.5mm. Sent for NDT.,High
+REC_0363,ASSET_2653,Bogie Frame,Tech_015,2024-08-31,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0364,ASSET_1724,Coupler Assembly,Tech_008,2024-02-16,TADS alarm triggered for bogie frame. Temperature spike 23.6°C above ambient. Bearing replaced.,High
+REC_0365,ASSET_1924,Door Mechanism,Tech_010,2023-05-24,Bearing temperature elevated: 71.8°C during run. Checked lubrication – regreased.,Medium
+REC_0366,ASSET_6253,Pantograph,Tech_029,2023-08-31,Driver reported excessive vibration above 80km/h. Investigated suspension spring – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0367,ASSET_5923,Bogie Frame,Tech_018,2023-10-09,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0368,ASSET_7999,Coupler Assembly,Tech_002,2024-07-23,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0369,ASSET_6222,HVAC Unit,Tech_005,2024-03-02,Crack indication found on hvac unit during magnetic particle inspection. Length approx 74.8mm. Sent for NDT.,High
+REC_0370,ASSET_9813,Brake System,Tech_028,2024-04-29,High-frequency noise traced to hvac unit. Fastener torque checked and found loose at 17.9Nm.,Low
+REC_0371,ASSET_3365,Bogie Frame,Tech_018,2024-04-19,Driver reported excessive vibration above 80km/h. Investigated pantograph – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0372,ASSET_3196,Brake System,Tech_009,2024-02-02,"Impact damage noted on hvac unit. Possible ballast strike. Minor gouging, 53.2mm depth.",Low
+REC_0373,ASSET_8369,Wheelset,Tech_018,2024-01-15,Tread hollowing measured: 61.6mm. Reprofiling scheduled.,Low
+REC_0374,ASSET_1647,Brake System,Tech_026,2023-03-16,Tread hollowing measured: 25.9mm. Reprofiling scheduled.,Low
+REC_0375,ASSET_4422,Pantograph,Tech_030,2023-12-07,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0376,ASSET_2922,Brake System,Tech_023,2024-05-05,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0377,ASSET_4921,Traction Motor,Tech_025,2024-07-19,TADS alarm triggered for brake system. Temperature spike 38.0°C above ambient. Bearing replaced.,High
+REC_0378,ASSET_6886,Pantograph,Tech_012,2023-11-12,High-frequency noise traced to hvac unit. Fastener torque checked and found loose at 44.6Nm.,Low
+REC_0379,ASSET_8692,Brake System,Tech_012,2023-11-24,Brake disc scoring observed on coupler assembly. Score depth 44.5mm. Monitoring.,Low
+REC_0380,ASSET_4625,Bogie Frame,Tech_009,2023-05-30,Rhythmic clunking at low speed. Wheel flat detected: 4.8mm depth.,High
+REC_0381,ASSET_7841,Axle Box,Tech_007,2023-10-30,Bearing temperature elevated: 55.2°C during run. Checked lubrication – regreased.,Medium
+REC_0382,ASSET_5026,Door Mechanism,Tech_021,2024-05-26,Rhythmic clunking at low speed. Wheel flat detected: 36.4mm depth.,High
+REC_0383,ASSET_9005,Coupler Assembly,Tech_015,2024-10-19,Spring deflection marginally above mean: 24.8mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0384,ASSET_9954,Axle Box,Tech_030,2024-05-15,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0385,ASSET_2217,Bogie Frame,Tech_025,2024-11-15,Bearing temperature elevated: 50.0°C during run. Checked lubrication – regreased.,Medium
+REC_0386,ASSET_4791,Axle Box,Tech_001,2023-03-11,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0387,ASSET_1990,Suspension Spring,Tech_030,2024-09-24,Tread hollowing measured: 43.6mm. Reprofiling scheduled.,Low
+REC_0388,ASSET_9719,HVAC Unit,Tech_001,2024-07-18,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0389,ASSET_9777,Bogie Frame,Tech_017,2023-10-21,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0390,ASSET_3937,Wheelset,Tech_017,2023-04-20,All measurements nominal. Component life estimated 76.7% remaining.,Low
+REC_0391,ASSET_9625,Traction Motor,Tech_009,2023-09-16,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0392,ASSET_7652,Suspension Spring,Tech_008,2024-04-15,Surface crack observed on wheelset tread. Asset removed from service pending workshop assessment.,High
+REC_0393,ASSET_2320,Bogie Frame,Tech_003,2024-10-31,All measurements nominal. Component life estimated 28.8% remaining.,Low
+REC_0394,ASSET_8798,Bogie Frame,Tech_023,2023-02-27,Surface crack observed on hvac unit tread. Asset removed from service pending workshop assessment.,High
+REC_0395,ASSET_8109,Traction Motor,Tech_019,2024-10-22,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0396,ASSET_4764,Suspension Spring,Tech_016,2023-08-05,"Noticed unusual wear pattern on door mechanism. Flange thickness measured at 87.4mm, approaching lower limit.",Medium
+REC_0397,ASSET_5593,Suspension Spring,Tech_022,2024-07-10,Intermittent squealing noise from bogie frame. Lubrication applied; monitoring required.,Low
+REC_0398,ASSET_6152,Brake System,Tech_019,2023-01-17,Scheduled lubrication performed on axle box. Grease level restored.,Low
+REC_0399,ASSET_5903,Suspension Spring,Tech_008,2023-06-16,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0400,ASSET_9856,HVAC Unit,Tech_025,2023-12-06,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0401,ASSET_6666,Wheelset,Tech_014,2023-02-24,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0402,ASSET_7499,Bogie Frame,Tech_021,2023-12-01,Driver reported excessive vibration above 80km/h. Investigated wheelset – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0403,ASSET_6829,HVAC Unit,Tech_014,2024-07-20,Intermittent squealing noise from coupler assembly. Lubrication applied; monitoring required.,Low
+REC_0404,ASSET_2404,Pantograph,Tech_026,2024-09-25,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0405,ASSET_3526,Axle Box,Tech_024,2024-01-25,Driver reported excessive vibration above 80km/h. Investigated wheelset – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0406,ASSET_2499,Pantograph,Tech_015,2023-01-06,Surface crack observed on traction motor tread. Asset removed from service pending workshop assessment.,High
+REC_0407,ASSET_2430,HVAC Unit,Tech_015,2023-07-11,Crack indication found on pantograph during magnetic particle inspection. Length approx 10.2mm. Sent for NDT.,High
+REC_0408,ASSET_2692,Wheelset,Tech_012,2023-01-27,Bearing temperature elevated: 48.9°C during run. Checked lubrication – regreased.,Medium
+REC_0409,ASSET_6315,Bogie Frame,Tech_010,2024-01-30,Bearing temperature elevated: 56.9°C during run. Checked lubrication – regreased.,Medium
+REC_0410,ASSET_4977,Door Mechanism,Tech_006,2024-08-08,"Impact damage noted on hvac unit. Possible ballast strike. Minor gouging, 74.1mm depth.",Low
+REC_0411,ASSET_5405,Pantograph,Tech_016,2023-11-05,Spring deflection marginally above mean: 16.5mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0412,ASSET_5521,Pantograph,Tech_016,2024-03-07,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0413,ASSET_5040,Coupler Assembly,Tech_020,2024-10-02,Visual check passed. Surface condition satisfactory.,Low
+REC_0414,ASSET_3219,Bogie Frame,Tech_013,2023-11-08,TADS alarm triggered for brake system. Temperature spike 43.8°C above ambient. Bearing replaced.,High
+REC_0415,ASSET_6399,Traction Motor,Tech_014,2024-03-26,Rhythmic clunking at low speed. Wheel flat detected: 36.4mm depth.,High
+REC_0416,ASSET_6253,Brake System,Tech_016,2024-09-09,Minor corrosion on suspension spring surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0417,ASSET_6228,Coupler Assembly,Tech_019,2023-10-26,Rhythmic clunking at low speed. Wheel flat detected: 91.7mm depth.,High
+REC_0418,ASSET_7437,Wheelset,Tech_030,2024-01-09,Driver reported excessive vibration above 80km/h. Investigated traction motor – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0419,ASSET_9939,Door Mechanism,Tech_001,2023-07-04,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0420,ASSET_5773,HVAC Unit,Tech_022,2023-03-12,Brake pad thickness below threshold: 41.9mm. Replaced brake block set.,High
+REC_0421,ASSET_4965,Axle Box,Tech_023,2023-09-16,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0422,ASSET_8851,HVAC Unit,Tech_018,2024-08-19,"Impact damage noted on hvac unit. Possible ballast strike. Minor gouging, 7.5mm depth.",Low
+REC_0423,ASSET_6890,Suspension Spring,Tech_021,2024-07-03,Brake disc scoring observed on hvac unit. Score depth 51.9mm. Monitoring.,Low
+REC_0424,ASSET_6816,Suspension Spring,Tech_002,2023-06-20,Visual check passed. Surface condition satisfactory.,Low
+REC_0425,ASSET_6432,Wheelset,Tech_001,2024-03-16,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0426,ASSET_9499,Suspension Spring,Tech_023,2024-07-25,"Noticed unusual wear pattern on pantograph. Flange thickness measured at 21.5mm, approaching lower limit.",Medium
+REC_0427,ASSET_7408,Suspension Spring,Tech_023,2024-04-19,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0428,ASSET_1402,Wheelset,Tech_010,2024-05-09,Brake disc scoring observed on axle box. Score depth 33.1mm. Monitoring.,Low
+REC_0429,ASSET_3321,Pantograph,Tech_011,2023-12-23,"Impact damage noted on wheelset. Possible ballast strike. Minor gouging, 11.5mm depth.",Low
+REC_0430,ASSET_6706,Wheelset,Tech_015,2024-05-02,Brake pad thickness below threshold: 49.7mm. Replaced brake block set.,High
+REC_0431,ASSET_5919,Wheelset,Tech_001,2023-02-15,All measurements nominal. Component life estimated 30.6% remaining.,Low
+REC_0432,ASSET_3692,Door Mechanism,Tech_006,2023-09-07,Rhythmic clunking at low speed. Wheel flat detected: 64.5mm depth.,High
+REC_0433,ASSET_7985,Brake System,Tech_026,2024-04-18,Bearing temperature elevated: 31.8°C during run. Checked lubrication – regreased.,Medium
+REC_0434,ASSET_8080,Bogie Frame,Tech_024,2024-02-10,Surface crack observed on axle box tread. Asset removed from service pending workshop assessment.,High
+REC_0435,ASSET_8037,Bogie Frame,Tech_023,2024-02-03,TADS alarm triggered for brake system. Temperature spike 43.0°C above ambient. Bearing replaced.,High
+REC_0436,ASSET_2025,Wheelset,Tech_026,2024-08-14,Tread hollowing measured: 26.8mm. Reprofiling scheduled.,Low
+REC_0437,ASSET_4228,Wheelset,Tech_009,2024-04-13,Bearing temperature elevated: 35.1°C during run. Checked lubrication – regreased.,Medium
+REC_0438,ASSET_6134,HVAC Unit,Tech_020,2024-09-03,Spring deflection marginally above mean: 50.4mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0439,ASSET_6766,Suspension Spring,Tech_006,2024-04-13,Surface crack observed on suspension spring tread. Asset removed from service pending workshop assessment.,High
+REC_0440,ASSET_2388,Axle Box,Tech_011,2024-11-19,Spring deflection marginally above mean: 87.3mm. Within acceptable range. Note for trend analysis.,Medium
+REC_0441,ASSET_3999,Axle Box,Tech_017,2024-01-18,"Noticed unusual wear pattern on brake system. Flange thickness measured at 29.4mm, approaching lower limit.",Medium
+REC_0442,ASSET_7286,Axle Box,Tech_016,2024-03-09,Surface crack observed on hvac unit tread. Asset removed from service pending workshop assessment.,High
+REC_0443,ASSET_3838,Axle Box,Tech_016,2024-07-22,Minor corrosion on door mechanism surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0444,ASSET_8389,Bogie Frame,Tech_028,2024-09-26,High-frequency noise traced to axle box. Fastener torque checked and found loose at 18.2Nm.,Low
+REC_0445,ASSET_4196,Door Mechanism,Tech_017,2024-01-29,Crack indication found on bogie frame during magnetic particle inspection. Length approx 46.3mm. Sent for NDT.,High
+REC_0446,ASSET_9056,Coupler Assembly,Tech_016,2024-03-01,Minor corrosion on coupler assembly surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0447,ASSET_4613,Bogie Frame,Tech_009,2023-10-27,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0448,ASSET_8492,Coupler Assembly,Tech_018,2024-08-02,Driver reported excessive vibration above 80km/h. Investigated door mechanism – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0449,ASSET_5389,Traction Motor,Tech_018,2024-07-10,Brake disc scoring observed on wheelset. Score depth 54.6mm. Monitoring.,Low
+REC_0450,ASSET_7965,Brake System,Tech_010,2023-04-15,Scheduled lubrication performed on coupler assembly. Grease level restored.,Low
+REC_0451,ASSET_2425,Wheelset,Tech_025,2024-03-25,Scheduled lubrication performed on coupler assembly. Grease level restored.,Low
+REC_0452,ASSET_6744,HVAC Unit,Tech_006,2024-09-16,Driver reported excessive vibration above 80km/h. Investigated brake system – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0453,ASSET_4390,Suspension Spring,Tech_012,2023-03-02,TADS alarm triggered for axle box. Temperature spike 74.7°C above ambient. Bearing replaced.,High
+REC_0454,ASSET_3758,Pantograph,Tech_010,2023-11-28,Bearing temperature elevated: 56.9°C during run. Checked lubrication – regreased.,Medium
+REC_0455,ASSET_9428,Wheelset,Tech_005,2024-11-26,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0456,ASSET_3078,Brake System,Tech_005,2023-05-16,"Impact damage noted on bogie frame. Possible ballast strike. Minor gouging, 94.3mm depth.",Low
+REC_0457,ASSET_7434,Axle Box,Tech_019,2024-05-16,All measurements nominal. Component life estimated 78.8% remaining.,Low
+REC_0458,ASSET_7146,Wheelset,Tech_021,2024-04-07,Minor corrosion on pantograph surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0459,ASSET_5558,Coupler Assembly,Tech_016,2024-01-13,Visual check passed. Surface condition satisfactory.,Low
+REC_0460,ASSET_2526,Traction Motor,Tech_028,2024-04-14,Rhythmic clunking at low speed. Wheel flat detected: 0.7mm depth.,High
+REC_0461,ASSET_8039,Coupler Assembly,Tech_009,2023-08-05,Visual check passed. Surface condition satisfactory.,Low
+REC_0462,ASSET_3139,Coupler Assembly,Tech_026,2024-08-02,Rhythmic clunking at low speed. Wheel flat detected: 32.4mm depth.,High
+REC_0463,ASSET_8529,Wheelset,Tech_030,2023-01-17,Rhythmic clunking at low speed. Wheel flat detected: 4.8mm depth.,High
+REC_0464,ASSET_8009,Axle Box,Tech_029,2023-07-27,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0465,ASSET_5489,Traction Motor,Tech_009,2023-04-06,Minor corrosion on pantograph surface. Treated and coated. Monitor at next cycle.,Medium
+REC_0466,ASSET_3711,HVAC Unit,Tech_021,2023-02-23,Visual check passed. Surface condition satisfactory.,Low
+REC_0467,ASSET_2494,Bogie Frame,Tech_007,2023-04-08,High-frequency noise traced to brake system. Fastener torque checked and found loose at 41.1Nm.,Low
+REC_0468,ASSET_4705,Coupler Assembly,Tech_001,2024-06-15,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
+REC_0469,ASSET_7919,Coupler Assembly,Tech_003,2023-05-16,Routine inspection completed. No anomalies detected. All measurements within spec.,Low
+REC_0470,ASSET_2678,Traction Motor,Tech_012,2023-04-16,Driver reported excessive vibration above 80km/h. Investigated hvac unit – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0471,ASSET_3181,Axle Box,Tech_003,2024-10-18,High-frequency noise traced to axle box. Fastener torque checked and found loose at 36.7Nm.,Low
+REC_0472,ASSET_3688,Traction Motor,Tech_024,2024-03-26,Brake disc scoring observed on suspension spring. Score depth 1.3mm. Monitoring.,Low
+REC_0473,ASSET_8248,Wheelset,Tech_029,2023-08-11,Tread hollowing measured: 87.4mm. Reprofiling scheduled.,Low
+REC_0474,ASSET_7291,HVAC Unit,Tech_011,2023-12-26,"Noticed unusual wear pattern on axle box. Flange thickness measured at 71.6mm, approaching lower limit.",Medium
+REC_0475,ASSET_2380,Door Mechanism,Tech_020,2023-09-12,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0476,ASSET_1439,Pantograph,Tech_007,2024-11-05,TADS alarm triggered for suspension spring. Temperature spike 27.4°C above ambient. Bearing replaced.,High
+REC_0477,ASSET_7418,Bogie Frame,Tech_026,2023-10-30,Brake disc scoring observed on suspension spring. Score depth 48.6mm. Monitoring.,Low
+REC_0478,ASSET_4949,Suspension Spring,Tech_003,2024-05-26,Driver reported excessive vibration above 80km/h. Investigated coupler assembly – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0479,ASSET_6185,HVAC Unit,Tech_028,2023-05-16,Brake disc scoring observed on bogie frame. Score depth 93.8mm. Monitoring.,Low
+REC_0480,ASSET_3830,Wheelset,Tech_001,2024-04-27,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0481,ASSET_4534,Bogie Frame,Tech_026,2023-02-10,Axle box bearing replaced preventively due to grease discolouration.,High
+REC_0482,ASSET_9209,HVAC Unit,Tech_023,2024-03-01,Surface crack observed on door mechanism tread. Asset removed from service pending workshop assessment.,High
+REC_0483,ASSET_9808,Axle Box,Tech_009,2024-09-22,Surface crack observed on wheelset tread. Asset removed from service pending workshop assessment.,High
+REC_0484,ASSET_4329,Door Mechanism,Tech_011,2023-06-09,Visual check passed. Surface condition satisfactory.,Low
+REC_0485,ASSET_2083,HVAC Unit,Tech_024,2023-11-14,Surface crack observed on suspension spring tread. Asset removed from service pending workshop assessment.,High
+REC_0486,ASSET_8118,Coupler Assembly,Tech_020,2023-04-29,Driver reported excessive vibration above 80km/h. Investigated bogie frame – bearing clearance within limits but noted micro-pitting.,Medium
+REC_0487,ASSET_3877,Bogie Frame,Tech_023,2023-05-03,TADS alarm triggered for bogie frame. Temperature spike 29.7°C above ambient. Bearing replaced.,High
+REC_0488,ASSET_6680,Door Mechanism,Tech_026,2024-06-19,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0489,ASSET_5403,Bogie Frame,Tech_011,2023-05-01,Intermittent squealing noise from axle box. Lubrication applied; monitoring required.,Low
+REC_0490,ASSET_5308,Wheelset,Tech_016,2024-08-13,"Impact damage noted on pantograph. Possible ballast strike. Minor gouging, 50.0mm depth.",Low
+REC_0491,ASSET_9185,Axle Box,Tech_012,2024-08-03,Brake pad thickness below threshold: 34.5mm. Replaced brake block set.,High
+REC_0492,ASSET_2889,Door Mechanism,Tech_001,2023-08-22,Uneven tread wear observed. Suspect hunting oscillation or misalignment.,Medium
+REC_0493,ASSET_8729,HVAC Unit,Tech_030,2024-01-08,Scheduled lubrication performed on bogie frame. Grease level restored.,Low
+REC_0494,ASSET_1579,HVAC Unit,Tech_008,2024-07-20,Significant flange wear detected. Asset flagged for early wheelset replacement.,Medium
+REC_0495,ASSET_6241,Wheelset,Tech_019,2023-10-05,Rhythmic clunking at low speed. Wheel flat detected: 39.8mm depth.,High
+REC_0496,ASSET_1862,Brake System,Tech_026,2023-07-03,Crack indication found on wheelset during magnetic particle inspection. Length approx 47.9mm. Sent for NDT.,High
+REC_0497,ASSET_2129,Pantograph,Tech_025,2024-04-21,Brake disc scoring observed on bogie frame. Score depth 90.7mm. Monitoring.,Low
+REC_0498,ASSET_8483,Traction Motor,Tech_007,2023-01-09,High-frequency noise traced to traction motor. Fastener torque checked and found loose at 8.7Nm.,Low
+REC_0499,ASSET_4974,Traction Motor,Tech_019,2024-04-20,High-frequency noise traced to suspension spring. Fastener torque checked and found loose at 74.6Nm.,Low
+REC_0500,ASSET_9954,Axle Box,Tech_001,2023-09-09,Uneven brake application reported. Slack adjuster inspected and reset.,Medium
